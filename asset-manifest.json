@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/desserts-to-cart/static/css/main.1dc89827.css",
+    "main.css": "/desserts-to-cart/static/css/main.c911a31c.css",
     "main.js": "/desserts-to-cart/static/js/main.506ed535.js",
     "static/media/RedHatText-VariableFont_wght.ttf": "/desserts-to-cart/static/media/RedHatText-VariableFont_wght.885cbf49d3f8ee6d075c.ttf",
     "static/media/image-brownie-mobile.jpg": "/desserts-to-cart/static/media/image-brownie-mobile.6564c9386ac1853629a3.jpg",
@@ -37,11 +37,11 @@
     "static/media/icon-remove-item.svg": "/desserts-to-cart/static/media/icon-remove-item.f6d5b4bec643d592f9e7f7c6ce5bbd00.svg",
     "static/media/icon-increment-quantity.svg": "/desserts-to-cart/static/media/icon-increment-quantity.198f568ac3a5878a42e68f03afb1837b.svg",
     "static/media/icon-decrement-quantity.svg": "/desserts-to-cart/static/media/icon-decrement-quantity.94e32888eee4ef88beccedc6f9534341.svg",
-    "main.1dc89827.css.map": "/desserts-to-cart/static/css/main.1dc89827.css.map",
+    "main.c911a31c.css.map": "/desserts-to-cart/static/css/main.c911a31c.css.map",
     "main.506ed535.js.map": "/desserts-to-cart/static/js/main.506ed535.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc89827.css",
+    "static/css/main.c911a31c.css",
     "static/js/main.506ed535.js"
   ]
 }
