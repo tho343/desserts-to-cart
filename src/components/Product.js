@@ -36,7 +36,8 @@ export const Product = ({
   return (
     <div className="product">
       <img
-        src={product.image.desktop}
+        alt="image thumbnail"
+        src={require(`${product.image.desktop}`)}
         className={`${isProductAdded ? "selected" : ""}`}
       />
 
