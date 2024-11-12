@@ -47,24 +47,26 @@ function App() {
   }
 
   return (
-    <div className="App">
-      <div className="side-bar">
-        <h1>Desserts</h1>
-        <ProductList
-          data={data}
-          onAdd={handleAddToCart}
+    <div className="container">
+      <div className="App">
+        <div className="side-bar">
+          <h1>Desserts</h1>
+          <ProductList
+            data={data}
+            onAdd={handleAddToCart}
+            cart={cart}
+            onDecrease={onDecrease}
+            onIncrease={onIncrease}
+            onDelete={onDelete}
+          />
+        </div>
+        <Cart
           cart={cart}
-          onDecrease={onDecrease}
-          onIncrease={onIncrease}
+          onConfirm={() => setIsOrderConfirm(true)}
           onDelete={onDelete}
         />
+        {isOrderConfirm && <ConfirmationModal onClose={onClose} cart={cart} />}
       </div>
-      <Cart
-        cart={cart}
-        onConfirm={() => setIsOrderConfirm(true)}
-        onDelete={onDelete}
-      />
-      {isOrderConfirm && <ConfirmationModal onClose={onClose} cart={cart} />}
     </div>
   );
 }

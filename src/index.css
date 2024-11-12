@@ -30,8 +30,14 @@ body{
   background-color: var(--Rose-50);
  
 }
+.container{
+  width: 100%;
+  justify-content: center;
+display: flex;
+align-items: center;
+}
 .App{
-  
+  max-width: 1400px;
   display: grid;
   grid-template-columns: 1fr 1fr ;
   gap: 24px;
