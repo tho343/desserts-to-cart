@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.2519ad79.css",
-    "main.js": "./static/js/main.65f0053c.js",
-    "static/media/RedHatText-VariableFont_wght.ttf": "./static/media/RedHatText-VariableFont_wght.885cbf49d3f8ee6d075c.ttf",
-    "static/media/Empty Illustration.svg": "./static/media/Empty Illustration.ad4686deb9860d728b20f29c6fecb3dc.svg",
-    "static/media/icon-add-to-cart.svg": "./static/media/icon-add-to-cart.12141fdf0da9c38c6421fe087a5b5125.svg",
-    "index.html": "./index.html",
-    "static/media/icon-remove-item.svg": "./static/media/icon-remove-item.f6d5b4bec643d592f9e7f7c6ce5bbd00.svg",
-    "static/media/icon-increment-quantity.svg": "./static/media/icon-increment-quantity.198f568ac3a5878a42e68f03afb1837b.svg",
-    "static/media/icon-decrement-quantity.svg": "./static/media/icon-decrement-quantity.94e32888eee4ef88beccedc6f9534341.svg",
-    "main.2519ad79.css.map": "./static/css/main.2519ad79.css.map",
-    "main.65f0053c.js.map": "./static/js/main.65f0053c.js.map"
+    "main.css": "/desserts-to-cart/static/css/main.1dc89827.css",
+    "main.js": "/desserts-to-cart/static/js/main.143892b7.js",
+    "static/media/RedHatText-VariableFont_wght.ttf": "/desserts-to-cart/static/media/RedHatText-VariableFont_wght.885cbf49d3f8ee6d075c.ttf",
+    "static/media/Empty Illustration.svg": "/desserts-to-cart/static/media/Empty Illustration.ad4686deb9860d728b20f29c6fecb3dc.svg",
+    "index.html": "/desserts-to-cart/index.html",
+    "static/media/icon-add-to-cart.svg": "/desserts-to-cart/static/media/icon-add-to-cart.12141fdf0da9c38c6421fe087a5b5125.svg",
+    "static/media/icon-remove-item.svg": "/desserts-to-cart/static/media/icon-remove-item.f6d5b4bec643d592f9e7f7c6ce5bbd00.svg",
+    "static/media/icon-increment-quantity.svg": "/desserts-to-cart/static/media/icon-increment-quantity.198f568ac3a5878a42e68f03afb1837b.svg",
+    "static/media/icon-decrement-quantity.svg": "/desserts-to-cart/static/media/icon-decrement-quantity.94e32888eee4ef88beccedc6f9534341.svg",
+    "main.1dc89827.css.map": "/desserts-to-cart/static/css/main.1dc89827.css.map",
+    "main.143892b7.js.map": "/desserts-to-cart/static/js/main.143892b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2519ad79.css",
-    "static/js/main.65f0053c.js"
+    "static/css/main.1dc89827.css",
+    "static/js/main.143892b7.js"
   ]
 }
